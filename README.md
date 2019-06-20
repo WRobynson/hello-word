@@ -1,4 +1,5 @@
 # hello-word
-o primeiro
-
+o primeiro (com dois edits)
 OK. Estou iniciando no mundo do Github
+
+adicionei mais esta linha depois de uma nova em branco.
